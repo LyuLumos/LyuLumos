@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. 👋
 
 <!--
 **LyuLumos/LyuLumos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+* 👀**GitHub Stats**:  
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyulumos" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyulumos&amp;show_icons=true&line_height=27" alt="My github stats" />
+
+
+* ⚡**Facts**:
+
+  - Help will always be given to those who ask for it at the repositories of [people I'm following](https://github.com/LyuLumos?tab=following), except mine😜.
+
+* 💬**About Me**
+
+  - A freshman in programming.
+  - Stay alive up to now depends on the unexpected help.
+  
+* 😋**Feel Free to Contact**
+
+  [<img src="https://img.shields.io/badge/Email-LyuLumos-blue">](mailto:3208413453@qq.com)

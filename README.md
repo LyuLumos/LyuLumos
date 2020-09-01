@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyulumos" />
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyulumos&amp;show_icons=true&line_height=27" alt="My github stats" />
+  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=lyulumos&show_icons=true&line_height=27" alt="My github stats" />
 
 
 * ⚡**Facts**:

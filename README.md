@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 * 👀**GitHub Stats**:  
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyulumos" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyulumos&layout=compact&theme=tokyonight" />
   
-  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=lyulumos&show_icons=true&line_height=27" alt="My github stats" />
+  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=lyulumos&show_icons=true&line_height=27&theme=tokyonight" alt="My github stats" />
 
 
 * ⚡**Facts**:

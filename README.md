@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=lyulumos&show_icons=true&line_height=27&theme=tokyonight" height="165">
   </a>
   <a href="https://github.com/lyulumos/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyulumos&layout=compact&theme=tokyonight"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyulumos&layout=compact&theme=tokyonight&hide=less,SCSS"  height="165">
   </a>
 </p>
   
@@ -40,6 +40,21 @@ Here are some ideas to get you started:
 ## Badges✨
 [<img src="https://img.shields.io/badge/Email-NineOceans-brightgreen">](mailto:3208413453@qq.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=lyulumos&color=brightgreen) <!--  Visitor Count -->
+
+## Languages & Technologies
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![bash](https://img.shields.io/badge/-Bash-000?&logo=shell)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+
 
 ## Have Fun
 <img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Jokes Card" />

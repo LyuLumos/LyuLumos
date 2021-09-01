@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Email-NineOceans-brightgreen">](mailto:3208413453@qq.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=lyulumos&color=brightgreen) <!--  Visitor Count -->
 
-## Languages & Technologies
+### Languages & Technologies
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -55,9 +55,6 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
-
-## Have Fun
-<img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Jokes Card" />
 
 
 

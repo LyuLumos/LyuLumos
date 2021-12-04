@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=lyulumos&show_icons=true&line_height=27&theme=tokyonight" height="165">
   </a>
   <a href="https://github.com/lyulumos/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyulumos&layout=compact&theme=tokyonight&hide=less,SCSS"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyulumos&layout=compact&theme=tokyonight&hide=less,SCSS,CSS"  height="165">
   </a>
 </p>
   

@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  
 ## Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lyulumos&theme=react-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyulumos&theme=react-dark">
 </p>
 
 ## Badges✨
